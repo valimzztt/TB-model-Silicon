@@ -1,0 +1,3 @@
+System = fcc Si 
+ISMEAR = 0; SIGMA = 0.1;
+ISYM = 2
